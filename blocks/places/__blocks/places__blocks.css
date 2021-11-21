@@ -1,0 +1,29 @@
+/* .places__blocks{
+    display: block;
+    max-width: 984px;
+    margin: 0 auto;
+    padding: 0;
+    list-style: none;
+} */
+.places__blocks{
+    list-style: none;
+    margin: 0 auto;
+    padding: 0;
+}
+
+/* @media screen and (max-width: 1024px) {
+    .places__blocks {
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .places__blocks { 
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .places__blocks {
+      display: flex;
+      flex-direction: column;
+    }
+} */

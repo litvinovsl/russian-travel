@@ -8,7 +8,7 @@
   }
 @media screen and (max-width: 1070px) {
     .header {
-      max-width: calc(100%-96px);
+      max-width: calc(100% - 96px);
       padding-right: 24px;
       padding-left: 24px;
       padding-bottom: 48px;
@@ -18,13 +18,13 @@
 
 @media screen and (max-width: 768px) {
     .header { 
-      max-width: calc(100%-48px);
+      max-width: calc(100% - 48px);
     }
   }
 
 @media screen and (max-width: 400px) {
     .header {
-      max-width: calc(100%-32px);
+      max-width: calc(100% - 32px);
       max-height: 42px;
       padding-top: 16px;
       padding-left: 16px;

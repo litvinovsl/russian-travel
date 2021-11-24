@@ -19,17 +19,12 @@
   
   @media screen and (max-width: 800px) {
     .lead {
-      margin-top: 0;
-      padding-top: 0;
       width: 100%;
     }
   }
   
   @media screen and (max-width: 400px) {
     .lead {
-      margin-top: 0;
-      padding-top: 0;
-      width: 100%;
       min-height: 406px;
     }
   }

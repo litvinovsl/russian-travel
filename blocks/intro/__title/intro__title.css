@@ -4,19 +4,17 @@
     font-weight: 900;
     font-size: 54px;
     line-height: 58px;
-    font-family: Inter;
     margin: 0;
 }
 
 @media screen and (max-width: 800px) {
     .intro__title {
-        max-width: 400px;
+        max-width: 720px;
     }
 }
 @media screen and (max-width: 400px) {
     .intro__title {
-        max-width: 320px;
-        font-weight: 900;
+        max-width: 288px;
         font-size: 32px;
         line-height: 35px;
     }
